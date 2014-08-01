@@ -1,4 +1,6 @@
 item.letsmodreboot:mapleLeaf.name=Maple Leaf of Awesomeness
+item.letsmodreboot:adamantiumIngot.name=Adamantium Ingot
 tile.letsmodreboot:flag.name=British Flag of Awesomeness
-tile.letsmodreboot:canada_flag.name=Canadian Flag of Awesomeness
+tile.letsmodreboot:canadaFlag.name=Canadian Flag of Awesomeness
+tile.letsmodreboot:adamantiumOre.name=Adamantium Ore
 itemGroup.letsmodreboot=Let's Mod Reboot

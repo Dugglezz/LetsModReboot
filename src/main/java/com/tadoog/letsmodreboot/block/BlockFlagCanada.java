@@ -5,7 +5,7 @@ public class BlockFlagCanada extends BlockLMRB
     public BlockFlagCanada()
     {
         super();
-        this.setBlockName("canada_flag");
-        this.setBlockTextureName("canada_flag");
+        this.setBlockName("canadaFlag");
+        this.setBlockTextureName("canadaFlag");
     }
 }
